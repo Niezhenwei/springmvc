@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [18/Dec/2018:16:19:32 +0800] "POST /springmvc_1/date.do?birthday=2018-12-18%2016:19:30 HTTP/1.1" 404 949 http-bio-9999-exec-1 1252
+0:0:0:0:0:0:0:1 - - [18/Dec/2018:16:20:04 +0800] "POST /springmvc_1/user/date.do?birthday=2018-12-18%2016:19:30 HTTP/1.1" 200 65 http-bio-9999-exec-2 304

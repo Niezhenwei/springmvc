@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:11:48:41 +0800] "POST /springmvc_1/date.do?uname=%E5%BC%A0%E4%B8%89&birthday=2018/12/17 HTTP/1.1" 404 949 http-bio-9999-exec-1 788
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:11:52:21 +0800] "POST /springmvc_1/date.do?uname=%E5%BC%A0%E4%B8%89&birthday=2018/12/17 HTTP/1.1" 404 949 http-bio-9999-exec-1 682
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:11:55:21 +0800] "POST /springmvc_1/date.do?uname=%E5%BC%A0%E4%B8%89&birthday=2018/12/17 HTTP/1.1" 404 949 http-bio-9999-exec-1 693
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:11:56:29 +0800] "POST /springmvc_1/user/date.do?uname=%E5%BC%A0%E4%B8%89&birthday=2018/12/17 HTTP/1.1" 400 968 http-bio-9999-exec-1 729
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:11:57:45 +0800] "POST /springmvc_1/user/date.do?uname=%E5%BC%A0%E4%B8%89&birthday=2018/12/17 HTTP/1.1" 400 968 http-bio-9999-exec-1 684
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:14:22:08 +0800] "POST /springmvc_1/user/date.do?birthday=2018/12/17 HTTP/1.1" 400 968 http-bio-9999-exec-1 724
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:14:24:50 +0800] "POST /springmvc_1/user/date.do?birthday=2018-12-17 HTTP/1.1" 200 65 http-bio-9999-exec-2 175
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:15:20:09 +0800] "POST /springmvc_1/user/date.do?birthday=2018/12/17 HTTP/1.1" 400 968 http-bio-9999-exec-1 848
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:15:21:12 +0800] "POST /springmvc_1/user/date.do?birthday=2018-12-17 HTTP/1.1" 200 65 http-bio-9999-exec-2 205
